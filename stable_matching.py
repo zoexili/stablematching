@@ -1,6 +1,6 @@
-# Zora Che, Jax Luo, Adam Smith, Gavin Brown
+# Li Xi
 # CS330, Fall 2022
-# Stable Matching Algorithm Starter Code
+# Stable Matching Algorithm
 
 import sys
 import time
